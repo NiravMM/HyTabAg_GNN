@@ -1,0 +1,7 @@
+Condition,Test_RMSE_g
+Base hybrid,1708
+Spatial −10%,1658
+Spatial −25%,1981
+Spatial −50%,2334
+Rescue −25%,1860
+Rescue −50%,1889

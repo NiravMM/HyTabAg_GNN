@@ -1,0 +1,4 @@
+Graph,Edges,Isolates,Avg_degree
+Spatial A_S,896,18,3.37
+Hybrid A_H (LMCR),925,3,3.48
+Radius (naive),19020,0,71.5

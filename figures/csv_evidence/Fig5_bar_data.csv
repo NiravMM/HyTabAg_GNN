@@ -1,0 +1,6 @@
+Model,Test_RMSE_g,Test_R2
+MLP Baseline,2186,0.561
+Spatial GAT ($A_S$),2260,0.529
+Spatial GCN ($A_S$),2224,0.544
+Spatial SAGE ($A_S$),2184,0.56
+Hybrid SAGE ($A_H$),1708,0.731
